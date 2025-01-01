@@ -11,7 +11,7 @@ public class ConvertNumToString {
 		String number = Integer.toString(num);	//String.valueOf(num);
 		System.out.println("String value of num = "+ number);
 
-		//Write a Java program to convert string to integer.​
+		//Write a Java program to convert String to integer.​
 		
 		String numString = "9";
 		int numInt = Integer.parseInt(numString);
